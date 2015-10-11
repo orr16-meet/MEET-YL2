@@ -1,0 +1,37 @@
+<html>
+
+<head>
+<title> MAIN PAGE </title>
+</head>
+
+<body bgcolor = "green">
+
+<h2 align = "center" style="color:aqua"> WELCOME </h2>		
+
+<p align = "center" style="color:aqua"> tO thE ChaMbeR of sEcrETs	</p>	
+
+<h5 align = "center" style="color:aqua"> by ORR </h5>
+
+<img  src="http://vignette2.wikia.nocookie.net/harrypotter/images/7/7f/Chamber_of_Secrets_Opening.jpg/revision/latest?cb=20100514154305" width=300 length=30 />
+	
+<a href = https://www.google.com/search?site=imghp&tbm=isch&source=hp&biw=1391&bih=693&q=chamber+of+secrets&oq=chamber+of+&gs_l=img.3.0.0l10.2830.7045.0.7966.13.11.1.1.1.0.148.1191.1j9.10.0....0...1ac.1.64.img..1.12.1198.Idas8pDB_M8 > MORE CHAMBERS </a>
+
+<ol>
+<li>THE </li>
+<li> CHAMBER </li>
+<li> of </li>
+<li> your mom </li>
+</ol>
+
+<ul>
+<li> WASSSSUP </li>
+</ul>
+
+<form>
+<input type="text" value="ROOVEN">
+<input type="submit" value="yEs">
+</form>
+
+</body>
+
+</html>

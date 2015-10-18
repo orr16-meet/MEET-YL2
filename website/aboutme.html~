@@ -1,0 +1,17 @@
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+	<title> ABOUT ME </title>
+	<h1 class="center"> ABOUT ME </h1>
+
+</head>
+
+<body class="bg">
+	<h5 class="center"> sooo... I'm REALLY cool. <br> everybody loves me (including Neta) <br> I love Sushi <br> </h5>
+	<a class="right" href="home.html"> -Home-
+	<a class="left" href="contactme.html"> -Contact Me-
+</body>
+
+
+</html>

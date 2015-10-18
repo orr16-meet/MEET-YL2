@@ -1,0 +1,33 @@
+.center {
+	color:#8BC007;
+	text-align: center 
+}
+
+
+.right{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    border: 1px solid #8BC007;
+    color: #889907
+    font-size: 300px;
+	
+}
+
+.left {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 1px solid #8BC007;
+    color: #889907;
+}
+
+.bg {
+background-image: url(bg.jpeg);
+background-size: 800px 800px;
+}
+
+
+

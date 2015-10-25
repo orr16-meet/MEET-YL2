@@ -1,32 +1,48 @@
 .center {
-	color:#8BC007;
-	text-align: center 
-}
-
-
-.right{
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 300px;
-    border: 1px solid #8BC007;
-    color: #889907
-    font-size: 300px;
+	color:#003300;
+	text-align: center;
+	font-style: italic; 
 	
 }
 
-.left {
+p.oblique {
+    font-style: oblique;
+} 
+
+.left{
     position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 300px;
-    border: 1px solid #8BC007;
-    color: #889907;
+    bottom: 300;
+    left: 300;
+    width: 200px;
+    border: 2px solid #8BC007;
+    color: #003300;
+    font-style: italic;	
+}
+
+.linkc{
+    position: fixed;
+    bottom: 300;
+    left: 600;
+    width: 200px;
+    border: 2px solid #8BC007;
+    color: #003300;
+    font-style: italic;	
+}
+
+
+.right {
+    position: fixed;
+    bottom: 300;
+    right: 300;
+    width: 200px;
+    border: 2px solid #8BC007;
+    color: #003300;
+    font-style: italic;
 }
 
 .bg {
-background-image: url(bg.jpeg);
-background-size: 800px 800px;
+background-image: url(woodbg.jpg);
+background-size: 2000px 1000px;
 }
 
 
